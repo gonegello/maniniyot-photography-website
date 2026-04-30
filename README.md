@@ -6,10 +6,7 @@ This repository contains the source code for our business platform, designed to 
 
 Core Services Featured:
 
-Event Coverage: Weddings, birthdays, and corporate events.
-
-Portraiture: Lifestyle, graduation, and professional headshots.
-
-Commercial: Product photography and brand storytelling.
-
-Cebu Locations: Expert knowledge of the best shoot locations across Metro Cebu.
+* Event Coverage: Weddings, birthdays, and corporate events.
+* Portraiture: Lifestyle, graduation, and professional headshots.
+* Commercial: Product photography and brand storytelling.
+* Cebu Locations: Expert knowledge of the best shoot locations across Metro Cebu.
